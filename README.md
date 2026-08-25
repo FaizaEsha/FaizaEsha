@@ -1,79 +1,52 @@
 <div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=180&section=header">
 
-<table>
-<tr>
-<td bgcolor="#5A0F16" align="center">
-
-<pre>
- ███████╗ █████╗ ██╗███████╗ █████╗ 
- ██╔════╝██╔══██╗██║╚══███╔╝██╔══██╗
- █████╗  ███████║██║  ███╔╝ ███████║
- ██╔══╝  ██╔══██║██║ ███╔╝  ██╔══██║
- ██║     ██║  ██║██║███████╗██║  ██║
- ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
-</pre>
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=140&text=FAIZA&fontSize=60&fontColor=7A1720&fontAlign=50&fontAlignY=55&desc=AHMED%20ESHA&descAlignY=80&descSize=18&descColor=FF3B30&animation=fadeIn" width="620">
 
 <br>
 
-### `FAIZA AHMED ESHA`
-
-`SOFTWARE ENGINEERING` &nbsp; // &nbsp; `AI / ML` &nbsp; // &nbsp; `RESEARCH`
+`SOFTWARE ENGINEERING` &nbsp;·&nbsp; `AI / ML` &nbsp;·&nbsp; `RESEARCH`
 
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=FF3B30&center=true&vCenter=true&width=720&lines=%3E+system.boot%28%29;%3E+building+software...;%3E+exploring+intelligent+systems...;%3E+research+mode%3A+active;%3E+status%3A+learning+%2F+building+%2F+iterating" />
 
-<br><br>
+<br>
 
-<img src="./assets/system-reboot.gif" width="620" alt="system reboot animation">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FFFFFF?style=flat-square&labelColor=5A0F16">
-<img src="https://img.shields.io/badge/MODE-BUILDING-FFFFFF?style=flat-square&labelColor=7A1720">
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-FFFFFF?style=flat-square&labelColor=3A0B10">
+<img src="./assets/system-reboot.gif" width="600" alt="system reboot">
 
 <br><br>
 
-<a href="mailto:ahmedfaiza256@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-FF3B30?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
-</a>
-
-<a href="https://github.com/FaizaEsha">
-<img src="https://img.shields.io/badge/GITHUB-151515?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
-<a href="https://www.facebook.com/faizavibes">
-<img src="https://img.shields.io/badge/FACEBOOK-151515?style=for-the-badge&logo=facebook&logoColor=FFFFFF" />
-</a>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-0A0A0A?style=for-the-badge&labelColor=5A0F16&color=0A0A0A">
+<img src="https://img.shields.io/badge/MODE-BUILDING-0A0A0A?style=for-the-badge&labelColor=7A1720&color=0A0A0A">
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-0A0A0A?style=for-the-badge&labelColor=3A0B10&color=0A0A0A">
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=5A0F16&height=2&section=footer">
+<a href="mailto:ahmedfaiza256@gmail.com"><img src="https://img.shields.io/badge/CONTACT-5A0F16?style=for-the-badge&logo=gmail&logoColor=FF3B30"></a>
+<a href="https://github.com/FaizaEsha"><img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=FF3B30"></a>
+<a href="https://www.facebook.com/faizavibes"><img src="https://img.shields.io/badge/FACEBOOK-0A0A0A?style=for-the-badge&logo=facebook&logoColor=FF3B30"></a>
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5A0F16&height=2&section=footer">
+
+<br>
 
 <div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║  SYSTEM PROFILE                                             ║
+║  SYSTEM PROFILE                                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  USER        : FAIZA AHMED ESHA                             ║
-║  ROLE        : CSE UNDERGRADUATE                            ║
-║  INSTITUTION : UNIVERSITY OF ASIA PACIFIC                   ║
-║  SPECIALTY   : SOFTWARE / AI / RESEARCH                     ║
-║  STATUS      : BUILDING                                     ║
-║                                                              ║
+║  USER        : FAIZA AHMED ESHA                              ║
+║  ROLE        : CSE UNDERGRADUATE                             ║
+║  INSTITUTION : UNIVERSITY OF ASIA PACIFIC                    ║
+║  SPECIALTY   : SOFTWARE / AI / RESEARCH                      ║
+║  STATUS      : BUILDING                                      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -81,14 +54,13 @@
 
 <br>
 
+## `[ 01 // ABOUT ]`
+
 <table>
 <tr>
-
 <td width="55%" valign="top">
 
-## `// ABOUT`
-
-I'm **Faiza Ahmed Esha**, a CSE undergraduate at the **University of Asia Pacific** interested in building software and exploring intelligent systems.
+I'm **Faiza Ahmed Esha**, a CSE undergraduate at the **University of Asia Pacific**, building software and exploring intelligent systems.
 
 My interests sit at the intersection of:
 
@@ -106,42 +78,28 @@ deep learning
 research & experimentation
 ```
 
-I enjoy turning ideas into working systems, experimenting with different approaches, and learning from the process.
-
-Currently:
+I enjoy turning ideas into working systems, experimenting with different approaches, and **learning from the process**.
 
 ```text
 LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 ```
 
 </td>
-
 <td width="45%" align="center" valign="middle">
 
-<img src="./assets/coder-terminal.gif" width="370" alt="cyberpunk coding terminal">
+<img src="./assets/coder-terminal.gif" width="360" alt="coding terminal">
 
 <br><br>
 
-<sub>
-
-`USER://FAIZA`
-
-`ACCESS://GRANTED`
-
-`STATUS://ONLINE`
-
-</sub>
+<sub>`USER://FAIZA`</sub><br>
+<sub>`ACCESS://GRANTED`</sub><br>
+<sub>`STATUS://ONLINE`</sub>
 
 </td>
-
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## `// SYSTEM LOG`
+<br>
 
 ```text
 [ OK ] software engineering
@@ -150,212 +108,173 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 [ OK ] machine learning
 [ OK ] deep learning
 [ OK ] research & experimentation
-[ ... ] becoming dangerously good at debugging
+[ .. ] becoming dangerously good at debugging
 ```
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5A0F16&height=2&section=footer">
 
----
-
-# `01 // TECH STACK`
+<br>
 
 <div align="center">
 
-### LANGUAGES
+## `[ 02 // BREACH DETECTED ]`
+
+<img src="./assets/breach-detected.gif" width="600" alt="breach detected">
+
+<sub>`INTRUDER GAINING ACCESS TO...` **`TECH STACK`**</sub>
+
+</div>
+
+<br>
+
+## `[ 03 // TECH STACK ]`
+
+<div align="center">
+
+**LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css&theme=dark" />
 
 <br><br>
 
-### DEVELOPMENT
+**DEVELOPMENT**
 
 <img src="https://skillicons.dev/icons?i=react,django,mysql,sqlite,selenium&theme=dark" />
 
 <br><br>
 
-### AI / ML
+**AI / ML**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=FF3B30">
-<img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=FF3B30">
-<img src="https://img.shields.io/badge/Matplotlib-111111?style=flat-square&logo=matplotlib&logoColor=FF6A00">
-<img src="https://img.shields.io/badge/Plotly-111111?style=flat-square&logo=plotly&logoColor=FF6A00">
+<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=flat-square&logo=numpy&logoColor=FF3B30">
+<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=flat-square&logo=pandas&logoColor=FF3B30">
+<img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=flat-square&logo=matplotlib&logoColor=7A1720">
+<img src="https://img.shields.io/badge/Plotly-0A0A0A?style=flat-square&logo=plotly&logoColor=7A1720">
 
 <br><br>
 
-### CREATIVE TOOLS
+**CREATIVE TOOLS**
 
-<img src="https://img.shields.io/badge/Adobe-111111?style=flat-square&logo=adobe&logoColor=FF3B30">
-<img src="https://img.shields.io/badge/Canva-111111?style=flat-square&logo=canva&logoColor=FF6A00">
+<img src="https://img.shields.io/badge/Adobe-0A0A0A?style=flat-square&logo=adobe&logoColor=FF3B30">
+<img src="https://img.shields.io/badge/Canva-0A0A0A?style=flat-square&logo=canva&logoColor=7A1720">
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5A0F16&height=2&section=footer">
 
-# `02 // SELECTED PROJECTS`
+<br>
+
+## `[ 04 // SELECTED PROJECTS ]`
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### `01` PROTISRUTI
+### `01` **PROTISRUTI**
 
 > A web platform designed to connect survivors with verified counselors while supporting confidential appointment scheduling.
 
-**TECH**
+**TECH** &nbsp; `Python` `Django`
 
-`Python` `Django`
-
-<br>
-
-<a href="https://github.com/FaizaEsha/Protisruti-NGO">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-5A0F16?style=flat-square&logo=github&logoColor=FFFFFF">
-</a>
+<a href="https://github.com/FaizaEsha/Protisruti-NGO"><img src="https://img.shields.io/badge/OPEN%20PROJECT-5A0F16?style=flat-square&logo=github&logoColor=FFFFFF"></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### `02` PERSONAL PORTFOLIO
+### `02` **PERSONAL PORTFOLIO**
 
 > A personal portfolio built to showcase my work, technical interests, and developer journey.
 
-**TECH**
+**TECH** &nbsp; `HTML` `CSS`
 
-`HTML` `CSS`
-
-<br>
-
-<a href="https://github.com/FaizaEsha/ESHA">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-7A1720?style=flat-square&logo=github&logoColor=FFFFFF">
-</a>
+<a href="https://github.com/FaizaEsha/ESHA"><img src="https://img.shields.io/badge/OPEN%20PROJECT-7A1720?style=flat-square&logo=github&logoColor=FFFFFF"></a>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### `03` PING PONG GAME
+### `03` **PING PONG GAME**
 
 > A desktop Ping-Pong game developed using Java and Java Swing.
 
-**TECH**
+**TECH** &nbsp; `Java` `Java Swing`
 
-`Java` `Java Swing`
-
-<br>
-
-<a href="https://github.com/FaizaEsha/Ping-Pong-Game">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-5A0F16?style=flat-square&logo=github&logoColor=FFFFFF">
-</a>
+<a href="https://github.com/FaizaEsha/Ping-Pong-Game"><img src="https://img.shields.io/badge/OPEN%20PROJECT-5A0F16?style=flat-square&logo=github&logoColor=FFFFFF"></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### `04` MORE INCOMING
+### `04` **MORE INCOMING**
 
 > Experiments, coursework, technical explorations, and research-oriented projects are continuously being added.
 
-<br>
-
-<a href="https://github.com/FaizaEsha?tab=repositories">
-<img src="https://img.shields.io/badge/SCAN%20ALL%20REPOSITORIES-E8E8E8?style=flat-square&logo=github&logoColor=000000">
-</a>
+<a href="https://github.com/FaizaEsha?tab=repositories"><img src="https://img.shields.io/badge/SCAN%20ALL%20REPOSITORIES-E8E8E8?style=flat-square&logo=github&logoColor=000000"></a>
 
 </td>
-
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5A0F16&height=2&section=footer">
 
-<div align="center">
+<br>
 
-<img src="./assets/breach-detected.gif" width="620" alt="cyberpunk breach detected animation">
-
-<br><br>
-
-<sub>
-
-`VISUAL REFERENCE // CYBERPUNK TERMINAL // GLITCHWAVE`
-
-</sub>
-
-</div>
-
----
-
-# `03 // CURRENT MISSION`
+## `[ 05 // CURRENT MISSION ]`
 
 <table>
 <tr>
-
 <td width="58%" valign="top">
 
 ```text
 ╔══════════════════════════════════════════════╗
-║                                              ║
-║  CURRENT MISSION                            ║
-║                                              ║
-║  [01] strengthen software engineering       ║
-║                                              ║
+║  CURRENT MISSION                             ║
+║  [01] strengthen software engineering        ║
 ║  [02] explore AI / ML systems                ║
-║                                              ║
 ║  [03] deepen research skills                 ║
-║                                              ║
 ║  [04] build meaningful projects              ║
-║                                              ║
 ║  [05] find problems worth solving            ║
-║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
 
 </td>
-
 <td width="42%" align="center" valign="middle">
 
-<img src="./assets/system-error.gif" width="320" alt="system error cyberpunk">
+<img src="./assets/system-error.gif" width="300" alt="system error">
+
+<br>
+
+<sub>**`WARNING:`** `DEADLINES.EXE APPROACHING`</sub>
 
 </td>
-
 </tr>
 </table>
 
----
-
-# `04 // GITHUB ACTIVITY`
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FaizaEsha&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3B30&text_color=E8E8E8&icon_color=FF6A00&include_all_commits=true&count_private=true" height="170" />
+## `[ 06 // GITHUB ACTIVITY ]`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaEsha&layout=compact&hide_border=true&bg_color=080808&title_color=FF6A00&text_color=E8E8E8&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=FaizaEsha&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&text_color=E8E8E8&icon_color=7A1720&include_all_commits=true&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaEsha&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&text_color=E8E8E8&langs_count=8" height="170" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=FaizaEsha&hide_border=true&background=080808&ring=FF3B30&fire=FF6A00&currStreakLabel=E8E8E8&sideLabels=E8E8E8&currStreakNum=FF3B30&sideNums=E8E8E8&dates=666666" />
+<img src="https://streak-stats.demolab.com/?user=FaizaEsha&hide_border=true&background=0A0A0A&ring=FF3B30&fire=7A1720&currStreakLabel=E8E8E8&sideLabels=E8E8E8&currStreakNum=FF3B30&sideNums=E8E8E8&dates=666666" />
 
 </div>
 
----
+<br>
+
+## `[ 07 // CONTRIBUTION MATRIX ]`
 
 <div align="center">
 
-## `05 // CONTRIBUTION MATRIX`
-
-<sub>
-
-`COMMITS DETECTED // ACTIVITY VISUALIZED`
-
-</sub>
+<sub>`COMMITS DETECTED // ACTIVITY VISUALIZED`</sub>
 
 <br><br>
 
@@ -367,11 +286,13 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5A0F16&height=2&section=footer">
+
+<br>
 
 <div align="center">
 
-<img src="./assets/connection-unstable.gif" width="520" alt="connection unstable pixel animation">
+<img src="./assets/connection-unstable.gif" width="500" alt="connection unstable">
 
 <br><br>
 
@@ -391,17 +312,11 @@ DEADLINES    : APPROACHING
 
 <br><br>
 
-<a href="mailto:ahmedfaiza256@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT%20ME-5A0F16?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
-</a>
+<a href="mailto:ahmedfaiza256@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-5A0F16?style=for-the-badge&logo=gmail&logoColor=FFFFFF"></a>
 
 <br><br>
 
-<sub>
-
-open to internships · collaborations · research · interesting engineering problems
-
-</sub>
+<sub>open to internships · collaborations · research · interesting engineering problems</sub>
 
 <br><br>
 
@@ -409,10 +324,6 @@ open to internships · collaborations · research · interesting engineering pro
 
 <br>
 
-<sub>
-
-`SYSTEM END // FAIZA.EXE`
-
-</sub>
+<sub>`SYSTEM END // FAIZA.EXE`</sub>
 
 </div>
