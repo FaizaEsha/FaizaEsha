@@ -2,6 +2,10 @@
 
 <br>
 
+<table>
+<tr>
+<td bgcolor="#5A0F16" align="center">
+
 <pre>
  ███████╗ █████╗ ██╗███████╗ █████╗ 
  ██╔════╝██╔══██╗██║╚══███╔╝██╔══██╗
@@ -11,9 +15,15 @@
  ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
 </pre>
 
+</td>
+</tr>
+</table>
+
+<br>
+
 ### `FAIZA AHMED ESHA`
 
-`SOFTWARE ENGINEERING`   //   `AI / ML`   //   `RESEARCH`
+`SOFTWARE ENGINEERING` &nbsp; // &nbsp; `AI / ML` &nbsp; // &nbsp; `RESEARCH`
 
 <br>
 
@@ -25,14 +35,14 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF2B2B?style=flat-square&labelColor=0A0A0A">
-<img src="https://img.shields.io/badge/MODE-BUILDING-FF6A00?style=flat-square&labelColor=0A0A0A">
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-E8E8E8?style=flat-square&labelColor=0A0A0A">
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FFFFFF?style=flat-square&labelColor=5A0F16">
+<img src="https://img.shields.io/badge/MODE-BUILDING-FFFFFF?style=flat-square&labelColor=7A1720">
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-FFFFFF?style=flat-square&labelColor=3A0B10">
 
 <br><br>
 
 <a href="mailto:ahmedfaiza256@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-FF2B2B?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/CONTACT-FF3B30?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
 
 <a href="https://github.com/FaizaEsha">
@@ -42,6 +52,10 @@
 <a href="https://www.facebook.com/faizavibes">
 <img src="https://img.shields.io/badge/FACEBOOK-151515?style=for-the-badge&logo=facebook&logoColor=FFFFFF" />
 </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5A0F16&height=2&section=footer">
 
 </div>
 
@@ -58,7 +72,7 @@
 ║  ROLE        : CSE UNDERGRADUATE                            ║
 ║  INSTITUTION : UNIVERSITY OF ASIA PACIFIC                   ║
 ║  SPECIALTY   : SOFTWARE / AI / RESEARCH                     ║
-║  STATUS      : BUILDING                                    ║
+║  STATUS      : BUILDING                                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -165,8 +179,8 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=FF2B2B">
-<img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=FF2B2B">
+<img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=FF3B30">
+<img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=FF3B30">
 <img src="https://img.shields.io/badge/Matplotlib-111111?style=flat-square&logo=matplotlib&logoColor=FF6A00">
 <img src="https://img.shields.io/badge/Plotly-111111?style=flat-square&logo=plotly&logoColor=FF6A00">
 
@@ -174,7 +188,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 ### CREATIVE TOOLS
 
-<img src="https://img.shields.io/badge/Adobe-111111?style=flat-square&logo=adobe&logoColor=FF2B2B">
+<img src="https://img.shields.io/badge/Adobe-111111?style=flat-square&logo=adobe&logoColor=FF3B30">
 <img src="https://img.shields.io/badge/Canva-111111?style=flat-square&logo=canva&logoColor=FF6A00">
 
 </div>
@@ -199,7 +213,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 <br>
 
 <a href="https://github.com/FaizaEsha/Protisruti-NGO">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-FF2B2B?style=flat-square&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-5A0F16?style=flat-square&logo=github&logoColor=FFFFFF">
 </a>
 
 </td>
@@ -217,7 +231,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 <br>
 
 <a href="https://github.com/FaizaEsha/ESHA">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-FF6A00?style=flat-square&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-7A1720?style=flat-square&logo=github&logoColor=FFFFFF">
 </a>
 
 </td>
@@ -239,7 +253,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 <br>
 
 <a href="https://github.com/FaizaEsha/Ping-Pong-Game">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-FF2B2B?style=flat-square&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-5A0F16?style=flat-square&logo=github&logoColor=FFFFFF">
 </a>
 
 </td>
@@ -271,7 +285,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 <sub>
 
-`visual reference // cyberpunk terminal // glitchwave`
+`VISUAL REFERENCE // CYBERPUNK TERMINAL // GLITCHWAVE`
 
 </sub>
 
@@ -295,7 +309,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 ║                                              ║
 ║  [02] explore AI / ML systems                ║
 ║                                              ║
-║  [03] deepen research skills                ║
+║  [03] deepen research skills                 ║
 ║                                              ║
 ║  [04] build meaningful projects              ║
 ║                                              ║
@@ -321,13 +335,13 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FaizaEsha&show_icons=true&hide_border=true&bg_color=080808&title_color=FF2B2B&text_color=E8E8E8&icon_color=FF6A00&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=FaizaEsha&show_icons=true&hide_border=true&bg_color=080808&title_color=FF3B30&text_color=E8E8E8&icon_color=FF6A00&include_all_commits=true&count_private=true" height="170" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaEsha&layout=compact&hide_border=true&bg_color=080808&title_color=FF6A00&text_color=E8E8E8&langs_count=8" height="170" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=FaizaEsha&hide_border=true&background=080808&ring=FF2B2B&fire=FF6A00&currStreakLabel=E8E8E8&sideLabels=E8E8E8&currStreakNum=FF2B2B&sideNums=E8E8E8&dates=666666" />
+<img src="https://streak-stats.demolab.com/?user=FaizaEsha&hide_border=true&background=080808&ring=FF3B30&fire=FF6A00&currStreakLabel=E8E8E8&sideLabels=E8E8E8&currStreakNum=FF3B30&sideNums=E8E8E8&dates=666666" />
 
 </div>
 
@@ -373,12 +387,12 @@ DEADLINES    : APPROACHING
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=FF2B2B&center=true&vCenter=true&width=650&lines=%3E+keep+building.;%3E+keep+learning.;%3E+keep+breaking+things.;%3E+keep+making+them+better." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=650&lines=%3E+keep+building.;%3E+keep+learning.;%3E+keep+breaking+things.;%3E+keep+making+them+better." />
 
 <br><br>
 
 <a href="mailto:ahmedfaiza256@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT%20ME-FF2B2B?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/CONTACT%20ME-5A0F16?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
 </a>
 
 <br><br>
@@ -391,6 +405,10 @@ open to internships · collaborations · research · interesting engineering pro
 
 <br><br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5A0F16&height=2&section=footer">
+
+<br>
+
 <sub>
 
 `SYSTEM END // FAIZA.EXE`
@@ -398,4 +416,3 @@ open to internships · collaborations · research · interesting engineering pro
 </sub>
 
 </div>
-```
