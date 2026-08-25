@@ -39,7 +39,7 @@
 
 <a href="mailto:ahmedfaiza256@gmail.com"><img src="https://img.shields.io/badge/CONTACT-5A0F16?style=for-the-badge&logo=gmail&logoColor=FF3B30"></a>
 <a href="https://github.com/FaizaEsha"><img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=FF3B30"></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF3B30"></a>
+<a href="https://linkedin.com/in/faiza-ahmed-esha"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF3B30"></a>
 <a href="https://www.facebook.com/faizavibes"><img src="https://img.shields.io/badge/FACEBOOK-0A0A0A?style=for-the-badge&logo=facebook&logoColor=FF3B30"></a>
 
 </div>
@@ -256,7 +256,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="58%" valign="middle">
 
 ```text
 ╔══════════════════════════════════════════════╗
