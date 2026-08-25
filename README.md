@@ -191,7 +191,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 <div align="center">
 
-## `SELECTED PROJECTS`
+## `FEATURED PROJECTS`
 
 </div>
 
@@ -234,11 +234,13 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 </td>
 <td width="50%" valign="top">
 
-### **MORE INCOMING**
+### **EDUVERSE**
 
-> Experiments, coursework, technical explorations, and research-oriented projects are continuously being added.
+> A peer-to-peer e-learning platform for students to teach and learn at the same time.
 
-<a href="https://github.com/FaizaEsha?tab=repositories"><img src="https://img.shields.io/badge/SCAN%20ALL%20REPOSITORIES-E8E8E8?style=flat-square&logo=github&logoColor=000000"></a>
+**TECH** &nbsp; `Python` `Django` `MySQL`
+
+<a href="https://github.com/IstiakNabil/EDUVERSE"><img src="https://img.shields.io/badge/OPEN%20PROJECT-5A0F16?style=flat-square&logo=github&logoColor=FFFFFF"></a>
 
 </td>
 </tr>
