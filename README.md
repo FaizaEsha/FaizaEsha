@@ -1,12 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=180&section=header">
+<table>
+<tr>
+<td bgcolor="#5A0F16" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=140&text=FAIZA&fontSize=60&fontColor=7A1720&fontAlign=50&fontAlignY=55&desc=AHMED%20ESHA&descAlignY=80&descSize=18&descColor=FF3B30&animation=fadeIn" width="620">
+<pre>
+ ███████╗ █████╗ ██╗███████╗ █████╗ 
+ ██╔════╝██╔══██╗██║╚══███╔╝██╔══██╗
+ █████╗  ███████║██║  ███╔╝ ███████║
+ ██╔══╝  ██╔══██║██║ ███╔╝  ██╔══██║
+ ██║     ██║  ██║██║███████╗██║  ██║
+ ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+</pre>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-`SOFTWARE ENGINEERING` &nbsp;·&nbsp; `AI / ML` &nbsp;·&nbsp; `RESEARCH`
+**`FULLSTACK DEVELOPER`** &nbsp;·&nbsp; **`RESEARCH`** &nbsp;·&nbsp; **`AI`**
 
 <br>
 
@@ -20,12 +33,13 @@
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-0A0A0A?style=for-the-badge&labelColor=5A0F16&color=0A0A0A">
 <img src="https://img.shields.io/badge/MODE-BUILDING-0A0A0A?style=for-the-badge&labelColor=7A1720&color=0A0A0A">
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-0A0A0A?style=for-the-badge&labelColor=3A0B10&color=0A0A0A">
+<img src="https://img.shields.io/badge/FOCUS-CODING-0A0A0A?style=for-the-badge&labelColor=3A0B10&color=0A0A0A">
 
 <br><br>
 
 <a href="mailto:ahmedfaiza256@gmail.com"><img src="https://img.shields.io/badge/CONTACT-5A0F16?style=for-the-badge&logo=gmail&logoColor=FF3B30"></a>
 <a href="https://github.com/FaizaEsha"><img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=FF3B30"></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF3B30"></a>
 <a href="https://www.facebook.com/faizavibes"><img src="https://img.shields.io/badge/FACEBOOK-0A0A0A?style=for-the-badge&logo=facebook&logoColor=FF3B30"></a>
 
 </div>
@@ -45,7 +59,7 @@
 ║  USER        : FAIZA AHMED ESHA                              ║
 ║  ROLE        : CSE UNDERGRADUATE                             ║
 ║  INSTITUTION : UNIVERSITY OF ASIA PACIFIC                    ║
-║  SPECIALTY   : SOFTWARE / AI / RESEARCH                      ║
+║  SPECIALTY   : BACKEND · FRONTEND · AI · RESEARCH            ║
 ║  STATUS      : BUILDING                                      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -54,7 +68,11 @@
 
 <br>
 
-## `[ 01 // ABOUT ]`
+<div align="center">
+
+## `ABOUT`
+
+</div>
 
 <table>
 <tr>
@@ -102,13 +120,13 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 <br>
 
 ```text
-[ OK ] software engineering
-[ OK ] full-stack development
-[ OK ] artificial intelligence
-[ OK ] machine learning
-[ OK ] deep learning
-[ OK ] research & experimentation
-[ .. ] becoming dangerously good at debugging
+[✓] software engineering
+[✓] full-stack development
+[✓] artificial intelligence
+[✓] machine learning
+[✓] deep learning
+[✓] research & experimentation
+[~] becoming dangerously good at debugging
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5A0F16&height=2&section=footer">
@@ -117,7 +135,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 <div align="center">
 
-## `[ 02 // BREACH DETECTED ]`
+## `BREACH DETECTED`
 
 <img src="./assets/breach-detected.gif" width="600" alt="breach detected">
 
@@ -127,7 +145,11 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 <br>
 
-## `[ 03 // TECH STACK ]`
+<div align="center">
+
+## `TECH STACK`
+
+</div>
 
 <div align="center">
 
@@ -167,13 +189,17 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 <br>
 
-## `[ 04 // SELECTED PROJECTS ]`
+<div align="center">
+
+## `SELECTED PROJECTS`
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01` **PROTISRUTI**
+### **PROTISRUTI**
 
 > A web platform designed to connect survivors with verified counselors while supporting confidential appointment scheduling.
 
@@ -184,7 +210,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 </td>
 <td width="50%" valign="top">
 
-### `02` **PERSONAL PORTFOLIO**
+### **PERSONAL PORTFOLIO**
 
 > A personal portfolio built to showcase my work, technical interests, and developer journey.
 
@@ -197,7 +223,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 <tr>
 <td width="50%" valign="top">
 
-### `03` **PING PONG GAME**
+### **PING PONG GAME**
 
 > A desktop Ping-Pong game developed using Java and Java Swing.
 
@@ -208,7 +234,7 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 </td>
 <td width="50%" valign="top">
 
-### `04` **MORE INCOMING**
+### **MORE INCOMING**
 
 > Experiments, coursework, technical explorations, and research-oriented projects are continuously being added.
 
@@ -222,7 +248,11 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 <br>
 
-## `[ 05 // CURRENT MISSION ]`
+<div align="center">
+
+## `CURRENT MISSION`
+
+</div>
 
 <table>
 <tr>
@@ -256,11 +286,11 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 <div align="center">
 
-## `[ 06 // GITHUB ACTIVITY ]`
+## `GITHUB ACTIVITY`
 
-<img src="https://github-readme-stats.vercel.app/api?username=FaizaEsha&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&text_color=E8E8E8&icon_color=7A1720&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-stats-extended.vercel.app/api?username=FaizaEsha&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&text_color=E8E8E8&icon_color=7A1720&include_all_commits=true&count_private=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaEsha&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&text_color=E8E8E8&langs_count=8" height="170" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FaizaEsha&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&text_color=E8E8E8&langs_count=8" height="170" />
 
 <br><br>
 
@@ -270,9 +300,9 @@ LEARNING  →  BUILDING  →  RESEARCHING  →  ITERATING
 
 <br>
 
-## `[ 07 // CONTRIBUTION MATRIX ]`
-
 <div align="center">
+
+## `CONTRIBUTION MATRIX`
 
 <sub>`COMMITS DETECTED // ACTIVITY VISUALIZED`</sub>
 
